@@ -1,0 +1,5 @@
+/venv/
+/button_image.jpg/
+/.gitignore/
+/.idea/ #не передаю настройки IDE
+/.static
